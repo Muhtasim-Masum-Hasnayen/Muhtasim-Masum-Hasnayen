@@ -1,6 +1,7 @@
+![Web Developer](https://pbs.twimg.com/media/GvztR4CWgAAaH50?format=jpg&name=900x900)
+
 ### Hi there 👋, I'm Muhtasim Masum Hasnayen
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/media/GvztR4CWgAAaH50?format=jpg&name=900x900)
 
 I'm a passionate Web Developer with a strong interest in building clean, functional, and user-friendly web applications.  
 This project was created as a fun and creative way to experiment with GitHub Readme customization —  
