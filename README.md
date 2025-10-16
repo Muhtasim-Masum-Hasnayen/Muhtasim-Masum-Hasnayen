@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/media/GvztR4CWgAAaH50?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/G3FWP3UWIAAlTgs?format=jpg&name=small)
 
 ### Hi there 👋, I'm Muhtasim Masum Hasnayen
 #### Web Developer
