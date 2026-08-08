@@ -1,3 +1,6 @@
+body {
+    background: #0D1117;
+}
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:302b63,100:00F7FF&height=190&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=17&animation=fadeIn" />
