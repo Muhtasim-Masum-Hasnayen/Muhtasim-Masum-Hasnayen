@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=220&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=220&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
 
 </div>
 
@@ -167,7 +167,7 @@ AI / ML          ────────────────► ███�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=200&section=footer&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20INNOVATE&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=200&section=footer&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20INNOVATE&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%" />
 
 </div>
 
