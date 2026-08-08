@@ -6,23 +6,51 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Web+Developer+%F0%9F%92%BB;SQA+%26+Test+Automation+Engineer+%F0%9F%A7%AA;Playwright+%7C+API+Testing+%7C+MySQL;AI%2FML+Explorer+%F0%9F%A4%96;Build+%E2%80%A2+Test+%E2%80%A2+Automate+%E2%80%A2+Improve+%F0%9F%9A%80" />
+<div align="center">
+
+## `// CONNECT_WITH_ME`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B;Open+to+Collaboration+%F0%9F%A4%9D;Build+Something+Amazing+Together+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://github.com/Muhtasim-Masum-Hasnayen">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
-<a href="mailto:hasnayenmasum@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B6E" />
+
+<a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF" />
 </a>
+
+<a href="https://www.facebook.com/mh.masum.908">
+<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+</a>
+
+<a href="https://www.instagram.com/MH_MASUM209/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4B91" />
+</a>
+
+<a href="https://twitter.com/@HasnayenMasum">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<a href="mailto:hasnayenmasum@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B6E" />
+</a>
+
 <a href="https://wa.me/8801730202960">
 <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FF88" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Muhtasim-Masum-Hasnayen&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:302B63,100:FF4B91&height=2&section=header" />
+
+<br>
+
+### `⚡ CONNECT • COLLABORATE • CREATE ⚡`
 
 </div>
 
