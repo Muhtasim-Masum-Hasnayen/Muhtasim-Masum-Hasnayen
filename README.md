@@ -10,7 +10,7 @@
 
 ## ` CONNECT_WITH_ME`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B;Open+to+Collaboration+%F0%9F%A4%9D;Build+Something+Amazing+Together+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B;Open+to+Collaboration+%F0%9F%A4%9D;Build+Something+Amazing+Together+%F0%9F%9A%80" />
 
 <br>
 
