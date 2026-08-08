@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## `// CONNECT_WITH_ME`
+## ` CONNECT_WITH_ME`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Let's+Connect+%F0%9F%91%8B;Find+Me+Across+The+Web+%F0%9F%8C%90;Open+To+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
 
@@ -39,12 +39,9 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- LinkedIn -->
-
 <a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/">
-<img src="https://cdn.simpleicons.org/linkedin/0EA5E9" width="42" height="42" alt="LinkedIn"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="42" height="42" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Facebook -->
 
