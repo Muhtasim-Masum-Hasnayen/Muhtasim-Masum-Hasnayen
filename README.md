@@ -165,10 +165,10 @@ AI / ML          ────────────────► ███�
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:302B63,100:050505&height=110&section=footer&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:B2DFDB,100:E8F5E9&height=110&section=footer&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:302B63,100:050505&height=110&section=footer&animation=twinkling">
-</picture>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=200&section=footer&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20AUTOMATE%20%E2%80%A2%20INNOVATE&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" />
+
+</div>
 
 </div>
