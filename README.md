@@ -93,9 +93,9 @@
 ## ` ABOUT`
 
 ```text
-👨‍💻 Web Developer
-🧪 Software Quality Assurance Enthusiast
+🧪 Software Testing and Quality Assurance Engineer
 ⚙️ Test Automation Explorer
+👨‍💻 Web Developer
 🤖 AI/ML & NLP Enthusiast
 
 Building reliable software.
