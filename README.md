@@ -22,45 +22,85 @@
 
 <br>
 
-<!-- ===================== SOCIALS ===================== -->
+<!-- ===================== FUTURISTIC SOCIAL HUB ===================== -->
+
+<div align="center">
+
+## `// CONNECT_WITH_ME`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Let's+Connect+%F0%9F%91%8B;Find+Me+Across+The+Web+%F0%9F%8C%90;Open+To+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
+
+<br>
+
+<!-- GitHub -->
 
 <a href="https://github.com/Muhtasim-Masum-Hasnayen">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" />
+<img src="https://cdn.simpleicons.org/github/38BDF8" width="42" height="42" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- LinkedIn -->
 
 <a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF" />
+<img src="https://cdn.simpleicons.org/linkedin/0EA5E9" width="42" height="42" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Facebook -->
 
 <a href="https://www.facebook.com/mh.masum.908">
-<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+<img src="https://cdn.simpleicons.org/facebook/2563EB" width="42" height="42" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Instagram -->
 
 <a href="https://www.instagram.com/MH_MASUM209/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4B91" />
+<img src="https://cdn.simpleicons.org/instagram/D946EF" width="42" height="42" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- X -->
 
 <a href="https://twitter.com/HasnayenMasum">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" height="42" alt="X"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Gmail -->
 
 <a href="mailto:hasnayenmasum@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B6E" />
+<img src="https://cdn.simpleicons.org/gmail/FF4B6E" width="42" height="42" alt="Gmail"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- WhatsApp -->
 
 <a href="https://wa.me/8801730202960">
-<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FF88" />
+<img src="https://cdn.simpleicons.org/whatsapp/00FF88" width="42" height="42" alt="WhatsApp"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Muhtasim-Masum-Hasnayen&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" />
+<!-- Animated Divider -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,25:2563EB,50:7C3AED,75:D946EF,100:00FF88&height=3&section=header&animation=twinkling" width="80%" />
+
+<br>
+
+<!-- Profile Views -->
+
+<img src="https://komarev.com/ghpvc/?username=Muhtasim-Masum-Hasnayen&style=for-the-badge&color=38BDF8&label=◉+PROFILE+VIEWS" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=35&lines=%E2%9A%A1+CONNECT+%E2%80%A2+COLLABORATE+%E2%80%A2+CREATE+%E2%9A%A1" />
 
 </div>
 
 ---
 
-## `// CONNECT_WITH_ME`
+## ` CONNECT_WITH_ME`
 
 <div align="center">
 
