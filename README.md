@@ -2,11 +2,11 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&0:050505,50:302b63,100:00F7FF&height=210&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:302B63,100:87CEEB&height=210&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=0D1117&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:302B63,100:00FF88&height=210&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=fadeIn">
-</picture>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=220&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=twinkling" />
+
+</div>
 
 <br>
 
