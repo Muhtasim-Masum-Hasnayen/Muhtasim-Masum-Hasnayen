@@ -26,58 +26,35 @@
 
 <div align="center">
 
-## ` CONNECT_WITH_ME`
+## 🔗 Connect With Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Let's+Connect+%F0%9F%91%8B;Find+Me+Across+The+Web+%F0%9F%8C%90;Open+To+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
-
-<br>
-
-<!-- GitHub -->
-
-<a href="https://github.com/Muhtasim-Masum-Hasnayen">
-<img src="https://cdn.simpleicons.org/github/38BDF8" width="42" height="42" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="42" height="42" alt="LinkedIn">
-</a>
-
-<!-- Facebook -->
-
-<a href="https://www.facebook.com/mh.masum.908">
-<img src="https://cdn.simpleicons.org/facebook/2563EB" width="42" height="42" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Instagram -->
-
-<a href="https://www.instagram.com/MH_MASUM209/">
-<img src="https://cdn.simpleicons.org/instagram/D946EF" width="42" height="42" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- X -->
-
-<a href="https://twitter.com/HasnayenMasum">
-<img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" height="42" alt="X"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Gmail -->
-
-<a href="mailto:hasnayenmasum@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/FF4B6E" width="42" height="42" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- WhatsApp -->
-
-<a href="https://wa.me/8801730202960">
-<img src="https://cdn.simpleicons.org/whatsapp/00FF88" width="42" height="42" alt="WhatsApp"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Let's+Connect;Open+To+Collaboration;Let's+Build+Something+Amazing" />
 
 <br><br>
+
+<a href="https://github.com/Muhtasim-Masum-Hasnayen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/mh.masum.908">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/MH_MASUM209/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://twitter.com/HasnayenMasum">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:hasnayenmasum@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/8801730202960">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&width=500&height=35&lines=%E2%97%89+SYSTEM+ONLINE;%E2%97%89+OPEN+TO+COLLABORATION;%E2%97%89+READY+TO+BUILD;%E2%97%89+ALWAYS+LEARNING+%F0%9F%9A%80" />
