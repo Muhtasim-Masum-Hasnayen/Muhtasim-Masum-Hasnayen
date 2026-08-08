@@ -104,7 +104,7 @@
 
 ---
 
-## ` CONNECT_WITH_ME`
+
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 ---
 
-## `// ABOUT`
+## ` ABOUT`
 
 ```text
 👨‍💻 Web Developer
@@ -132,7 +132,7 @@ Always learning. 🚀
 
 ---
 
-## `// TECH_STACK`
+## `TECH_STACK`
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Always learning. 🚀
 
 ---
 
-## `// FOCUS`
+## ` FOCUS`
 
 ```text
 Web Development  ────────────────► █████████░ 90%
@@ -160,7 +160,7 @@ AI / ML          ────────────────► ███�
 
 ---
 
-## `// PROJECTS`
+## ` PROJECTS`
 
 | 🚀 Project                      | 🔧 Focus                      |
 | :------------------------------ | :---------------------------- |
@@ -171,7 +171,7 @@ AI / ML          ────────────────► ███�
 
 ---
 
-## `// GITHUB`
+## ` GITHUB`
 
 <div align="center">
 
