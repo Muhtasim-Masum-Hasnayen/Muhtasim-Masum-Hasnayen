@@ -12,7 +12,7 @@
 
 <!-- ===================== PROFILE IMAGE ===================== -->
 
-<img src="./profile.jpg" width="145" height="145" style="border-radius:50%;" />
+<img src="./profile.jpg" width="500" height="600" style="border-radius:50%;" />
 
 <br><br>
 
