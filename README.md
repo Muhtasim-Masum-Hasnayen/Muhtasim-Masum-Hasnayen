@@ -1,78 +1,116 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                 MUHTASIM MASUM HASNAYEN                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=58&descSize=18" />
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+SQA+Engineer;Test+Automation+Enthusiast;AI%2FML+Explorer;Building+%7C+Testing+%7C+Automating;Turning+Ideas+into+Digital+Solutions+%F0%9F%9A%80" />
+<!--                    FUTURISTIC HEADER                         -->
 
-<br/>
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/USERNAME">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0f0c29,55:302b63,80:24243e,100:00f7ff&height=260&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%E2%80%A2%20SQA%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<br>
+
+<!-- PROFILE IMAGE -->
+
+<img src="./profile.jpg" width="170" height="170" style="border-radius:50%; object-fit:cover;" />
+
+<br><br>
+
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=Hello+World!+%F0%9F%91%8B+I'm+Muhtasim+Masum+Hasnayen;Web+Developer+%7C+SQA+Engineer;Test+Automation+%7C+Playwright+%7C+API+Testing;AI%2FML+Explorer+%7C+NLP+Enthusiast;Build+%E2%80%A2+Test+%E2%80%A2+Automate+%E2%80%A2+Improve+%F0%9F%9A%80" />
+
+<br>
+
+<!-- SOCIAL BUTTONS -->
+
+<a href="https://github.com/Muhtasim-Masum-Hasnayen">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
-<a href="https://github.com/USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=for-the-badge&color=1a1b27" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="mailto:hasnayenmasum@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF3D71?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/8801730202960">
+<img src="https://img.shields.io/badge/WhatsApp-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhtasim-Masum-Hasnayen&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧬 `whoami`
+# `> whoami`
 
-```yaml
-name: Muhtasim Masum Hasnayen
+```bash
+┌──(Muhtasim㉿github)-[~/developer]
+└─$ ./about-me.sh
 
-role:
-  - Web Developer
-  - Software Quality Assurance Enthusiast
-  - Test Automation Enthusiast
-  - AI/ML Explorer
+[+] Initializing developer profile...
+[+] Loading skills...
+[+] Loading projects...
+[+] Loading ambitions...
 
-focus:
-  - Web Application Development
-  - Software Testing & Quality Assurance
-  - Test Automation
-  - API Testing
-  - AI-Assisted Testing
-  - Machine Learning & NLP
+NAME        : Muhtasim Masum Hasnayen
+ROLE        : Web Developer / SQA Enthusiast
+FOCUS       : Quality • Automation • AI
+LOCATION    : Bangladesh
+STATUS      : ONLINE ●
 
-currently_learning:
-  - JavaScript
-  - Playwright
-  - API Automation
-  - Advanced Web Development
-  - AI/ML
+MISSION     : Build → Test → Automate → Improve
 
-mindset: "Build it. Test it. Automate it. Improve it."
+INTERESTS
+├── Web Development
+├── Software Quality Assurance
+├── Test Automation
+├── API Testing
+├── AI-Assisted Testing
+├── Machine Learning
+└── Natural Language Processing
+
+SYSTEM STATUS: ████████████████████ 100%
 ```
 
 ---
 
-## ⚡ `ABOUT_ME`
+# `// ABOUT_ME`
 
-> I am a passionate developer who enjoys transforming ideas into functional,
-> reliable and user-friendly digital products.
+<div align="center">
 
-* 🔭 Currently building **Web, QA & Automation Projects**
-* 🌱 Currently learning **JavaScript & Advanced Test Automation**
-* 🧪 Interested in **Manual + Automation Testing**
-* 🤖 Exploring **AI/ML & AI-Assisted Testing**
-* 💬 Ask me about **Web Development, QA & Testing**
-* 🚀 Love experimenting with **new technologies**
-* 📫 Email: **[hasnayenmasum@gmail.com](mailto:hasnayenmasum@gmail.com)**
+> **"I don't just build software — I test it, break it, automate it, and make it better."**
+
+</div>
+
+I'm a passionate developer interested in building **clean, scalable and reliable digital products**.
+
+My journey is currently focused on combining **Web Development + Software Quality Assurance + Test Automation + AI/ML**.
+
+```text
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│   💻 Web Development                                        │
+│   🧪 Software Quality Assurance                             │
+│   🤖 AI / Machine Learning                                  │
+│   ⚙️ Test Automation                                       │
+│   🔌 API Testing                                            │
+│   🗄️ Database Testing                                      │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-## 🧠 `TECH_STACK`
+# `// TECH_STACK`
 
-### 💻 Development
+## 💻 Development
 
 <p align="center">
 
@@ -80,7 +118,9 @@ mindset: "Build it. Test it. Automate it. Improve it."
 
 </p>
 
-### 🧪 Software Quality Assurance
+---
+
+## 🧪 Testing & QA
 
 <p align="center">
 
@@ -89,15 +129,18 @@ mindset: "Build it. Test it. Automate it. Improve it."
 </p>
 
 ```text
-Manual Testing       ███████████████████░░  90%
-Test Case Design     ██████████████████░░░  85%
-Bug Reporting        ██████████████████░░░  85%
-API Testing          ████████████████░░░░░  80%
-Playwright           ███████████████░░░░░░  75%
+Manual Testing       ████████████████████░  90%
+Test Case Design     ███████████████████░░  88%
+Bug Reporting        ███████████████████░░  85%
+API Testing          █████████████████░░░░  80%
+Playwright           ████████████████░░░░░  78%
+Regression Testing   █████████████████░░░░  82%
 Database Testing     ███████████████░░░░░░  75%
 ```
 
-### 🤖 AI / ML
+---
+
+## 🤖 AI / ML
 
 <p align="center">
 
@@ -107,209 +150,326 @@ Database Testing     ███████████████░░░░�
 
 ---
 
-## 🧪 `QA_ENGINEERING`
+# `// QA_ENGINEERING`
 
 ```text
-                     SOFTWARE QUALITY
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       MANUAL          AUTOMATION          API
-       TESTING           TESTING          TESTING
-          │                │                │
-     Test Cases        Playwright        Postman
-     Test Scenarios    End-to-End        REST API
-     Smoke Testing     Regression        Validation
-     Sanity Testing    UI Testing        Assertions
-     Regression
-          │
-          └────────────────┬────────────────┘
-                           │
-                    QUALITY ASSURANCE
-                           │
-                ┌──────────┴──────────┐
-                │                     │
-              JIRA                 MYSQL
-          Bug Tracking         Database Testing
+                         ┌───────────────────────┐
+                         │   SOFTWARE QUALITY    │
+                         └───────────┬───────────┘
+                                     │
+               ┌─────────────────────┼─────────────────────┐
+               │                     │                     │
+               ▼                     ▼                     ▼
+        ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+        │   MANUAL    │       │ AUTOMATION  │       │     API     │
+        │   TESTING   │       │   TESTING   │       │   TESTING   │
+        └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
+               │                     │                     │
+               ▼                     ▼                     ▼
+          Test Cases             Playwright              Postman
+          Test Scenarios         E2E Testing             REST API
+          Smoke Testing          UI Testing              Validation
+          Sanity Testing         Regression              Assertions
+          Functional Testing    Automation
+               │                     │                     │
+               └─────────────────────┼─────────────────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │   QUALITY ASSURANCE  │
+                         └───────────┬───────────┘
+                                     │
+                       ┌─────────────┴─────────────┐
+                       ▼                           ▼
+                 ┌──────────┐                ┌──────────┐
+                 │   JIRA   │                │  MYSQL   │
+                 │   BUGS   │                │ DATABASE │
+                 └──────────┘                └──────────┘
 ```
 
 ---
 
-## 🚀 `FEATURED_PROJECTS`
+# `// CURRENTLY_BUILDING`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01] ████████████████████  Web Development                 │
+│                                                             │
+│  [02] ███████████████████░  Playwright Automation            │
+│                                                             │
+│  [03] ██████████████████░░  API Testing                      │
+│                                                             │
+│  [04] █████████████████░░░  AI-Assisted Testing              │
+│                                                             │
+│  [05] ███████████████░░░░░  Machine Learning                 │
+│                                                             │
+│  [06] ██████████████░░░░░░  NLP                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `// FEATURED_PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧪 E-Commerce QA Automation
+<td width="50%" valign="top">
 
-**Manual + Automation Testing Project**
+## 🧪 E-Commerce QA Automation
 
-* Test Case Design
-* Playwright Automation
-* API Testing
-* Regression Testing
-* Bug Reporting
-* GitHub Documentation
+**End-to-End Software Testing**
 
-`Playwright` `Postman` `JIRA` `MySQL`
+```text
+✓ Manual Testing
+✓ Test Case Design
+✓ Playwright
+✓ API Testing
+✓ Regression Testing
+✓ Bug Reporting
+✓ MySQL
+✓ JIRA
+```
+
+**Stack**
+
+`Playwright` `Postman` `MySQL` `JIRA`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Test Case Generator
+## 🤖 AI Test Case Generator
 
-**AI-powered QA Assistant**
+**AI-Powered QA Assistant**
 
-* Requirement Analysis
-* Test Scenario Generation
-* Test Case Generation
-* Excel / CSV Export
-* AI-Assisted QA Workflow
+```text
+✓ Requirement Analysis
+✓ Test Scenario Generation
+✓ Test Case Generation
+✓ AI-Assisted QA
+✓ CSV / Excel Export
+✓ Test Coverage Improvement
+```
+
+**Stack**
 
 `Python` `AI` `QA` `Automation`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🌾 SmartKrishi
+<td width="50%" valign="top">
 
-**Agriculture Management Platform**
+## 🌾 SmartKrishi
 
-* Farmer Management
-* Supplier Management
-* Customer Management
-* Inventory
-* Orders
-* Smart Crop Doctor
+**Agriculture Management System**
+
+```text
+✓ Farmer Management
+✓ Supplier Management
+✓ Customer Management
+✓ Inventory Management
+✓ Order Tracking
+✓ Smart Crop Doctor
+```
+
+**Stack**
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Adaptive MFA
+## 🔐 Adaptive MFA
 
-**AI-based Authentication System**
+**AI-Based Authentication System**
 
-* Login Behavior Analysis
-* Risk Score
-* Device Analysis
-* Location Analysis
-* Random Forest Model
+```text
+✓ Login Behavior Analysis
+✓ Device Analysis
+✓ Location Analysis
+✓ Risk Score
+✓ Random Forest
+✓ Security Analytics
+```
 
-`Python` `ML` `Security` `Random Forest`
+**Stack**
+
+`Python` `Machine Learning` `Security`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 `GITHUB_ANALYTICS`
+# `// GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhtasim-Masum-Hasnayen&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 `CONTRIBUTION_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com?user=Muhtasim-Masum-Hasnayen&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🏆 `GITHUB_TROPHIES`
+# `// CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhtasim-Masum-Hasnayen&bg_color=0D1117&color=00F7FF&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 `CURRENT_MISSION`
+# `// GITHUB_TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhtasim-Masum-Hasnayen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# `// CODING_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muhtasim-Masum-Hasnayen&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `// DEVELOPER_MINDSET`
 
 ```text
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│   [01] Become a Strong Software QA Engineer         │
-│                                                     │
-│   [02] Master Playwright Automation                 │
-│                                                     │
-│   [03] Build Real-World QA Projects                │
-│                                                     │
-│   [04] Improve API & Database Testing              │
-│                                                     │
-│   [05] Explore AI-Assisted Software Testing        │
-│                                                     │
-│   [06] Grow into AI / ML & NLP                     │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
+                     ┌────────────────────┐
+                     │      IDEA 💡       │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                     ┌────────────────────┐
+                     │      CODE 💻       │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                     ┌────────────────────┐
+                     │      TEST 🧪       │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                     ┌────────────────────┐
+                     │    AUTOMATE ⚙️     │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                     ┌────────────────────┐
+                     │    IMPROVE 🚀      │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                     ┌────────────────────┐
+                     │   SHIP IT! 🚀     │
+                     └────────────────────┘
 ```
 
 ---
 
-## 🌐 `CONNECT_WITH_ME`
+# `// CURRENT_MISSION`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        🚀 LEVELING UP THE DEVELOPER STACK            ║
+║                                                      ║
+║  ▸ Master Playwright Automation                     ║
+║  ▸ Build Real-World QA Projects                     ║
+║  ▸ Strengthen API Testing                           ║
+║  ▸ Improve Database Testing                         ║
+║  ▸ Explore AI-Assisted Testing                      ║
+║  ▸ Learn Machine Learning & NLP                     ║
+║  ▸ Build Production-Ready Applications              ║
+║                                                      ║
+║                  STATUS: ONLINE ●                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `// CONNECT`
 
 <div align="center">
 
 <a href="mailto:hasnayenmasum@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-FF3D71?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Muhtasim-Masum-Hasnayen">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://wa.me/8801730202960">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
 
----
-
-## 💭 `DEV_QUOTE`
+<br>
 
 <div align="center">
 
-### `> Build. Break. Test. Fix. Repeat. 🚀`
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   "Great software is not only built.                   │
+│    It is tested, challenged and continuously improved." │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
 
-**Quality isn't an option — it's part of the product.**
+### `⚡ BUILD • TEST • AUTOMATE • INNOVATE ⚡`
 
 </div>
 
----
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<!-- FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,25:24243e,55:302b63,80:0f0c29,100:050505&height=160&section=footer&animation=twinkling" />
 
 <div align="center">
 
-### ⚡ `MUHTASIM MASUM HASNAYEN`
+**MUHTASIM MASUM HASNAYEN**
 
 `Web Developer` • `SQA` • `Automation` • `AI/ML`
 
