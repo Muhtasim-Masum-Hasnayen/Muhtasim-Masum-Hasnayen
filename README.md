@@ -146,20 +146,10 @@ AI / ML          ────────────────► ███�
 ---
 
 ## ` GITHUB`
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhtasim-Masum-Hasnayen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhtasim-Masum-Hasnayen&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhtasim-Masum-Hasnayen&layout=compact&theme=default&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhtasim-Masum-Hasnayen&layout=compact&theme=tokyonight&hide_border=true">
-</picture>
+<img height="165" src="https://raw.githubusercontent.com/Muhtasim-Masum-Hasnayen/Muhtasim-Masum-Hasnayen/main/profile/stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/Muhtasim-Masum-Hasnayen/Muhtasim-Masum-Hasnayen/main/profile/top-langs.svg" />
 
 <br><br>
 
@@ -170,7 +160,6 @@ AI / ML          ────────────────► ███�
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhtasim-Masum-Hasnayen&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
 ---
 
 <div align="center">
