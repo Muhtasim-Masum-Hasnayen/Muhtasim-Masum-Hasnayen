@@ -22,7 +22,7 @@
 
 <br>
 
-<!-- ===================== FUTURISTIC SOCIAL HUB ===================== -->
+<!-- =================== FUTURISTIC SOCIAL HUB ===================== -->
 
 <div align="center">
 
