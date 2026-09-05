@@ -16,13 +16,13 @@
 
 <br><br>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TYPING ANIMATION ============== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=750&height=60&lines=Web+Developer+%F0%9F%92%BB;SQA+%26+Test+Automation+Engineer+%F0%9F%A7%AA;Playwright+%7C+API+Testing+%7C+MySQL;AI%2FML+%26+NLP+Explorer+%F0%9F%A4%96;Build+%E2%80%A2+Test+%E2%80%A2+Automate+%E2%80%A2+Improve+%F0%9F%9A%80" />
 
 <br>
 
-<!-- =================== FUTURISTIC SOCIAL HUB ===================== -->
+<!-- =================== FUTURISTIC SOCIAL HUB ============= -->
 
 <div align="center">
 
