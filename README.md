@@ -12,7 +12,7 @@
 
 <!-- ===================== PROFILE IMAGE =================== -->
 
-<img src="./profile.jpeg" width="600" height="700" style="border-radius:50%;" />
+<img src="./masum2.png" width="600" height="700" style="border-radius:50%;" />
 
 <br><br>
 
