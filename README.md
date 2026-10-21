@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- =================== HEADER ==================== -->
-
+<p align="center">
+  <img src="./muhtasim-animated-github-profile.svg"
+       alt="Muhtasim Masum Hasnayen — Animated Developer Banner"
+       width="100%" />
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0EA5E9,40:2563EB,60:7C3AED,80:D946EF,100:38BDF8&height=220&section=header&text=MUHTASIM%20MASUM%20HASNAYEN&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Web%20Developer%20%7C%20SQA%20%7C%20Automation%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
