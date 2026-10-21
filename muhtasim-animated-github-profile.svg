@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Muhtasim Masum Hasnayen — Animated GitHub Profile</title>
+<desc id="desc">Animated neon orbit, floating particles, pulsing rings, and a typewriter-like highlight for a CSE engineer focused on web development, SQA, AI/ML/NLP, and VLSI.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b17"/><stop offset=".58" stop-color="#0b1230"/><stop offset="1" stop-color="#170b2c"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#647cff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#2563eb" stop-opacity=".35"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#91aaff" stroke-opacity=".07"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .txt{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .muted{fill:#9fb2d6}
+    .orbit{transform-origin:870px 300px;animation:spin 22s linear infinite}
+    .orbit2{transform-origin:870px 300px;animation:spin 17s linear infinite reverse}
+    .pulse{transform-origin:870px 300px;animation:pulse 3.2s ease-in-out infinite}
+    .float{animation:float 4s ease-in-out infinite}
+    .float2{animation:float 5s ease-in-out infinite;animation-delay:-2s}
+    .twinkle{animation:twinkle 2.4s ease-in-out infinite}
+    .dash{stroke-dasharray:8 14;animation:dash 10s linear infinite}
+    .typing{animation:typing 5s steps(22,end) infinite;clip-path:inset(0 100% 0 0);animation-name:reveal}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:.55;transform:scale(.96)}50%{opacity:1;transform:scale(1.04)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    @keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
+    @keyframes dash{to{stroke-dashoffset:-220}}
+    @keyframes reveal{0%,8%{clip-path:inset(0 100% 0 0)}45%,72%{clip-path:inset(0 0 0 0)}95%,100%{clip-path:inset(0 100% 0 0)}}
+    @media(prefers-reduced-motion:reduce){.orbit,.orbit2,.pulse,.float,.float2,.twinkle,.dash,.typing{animation:none}}
+  </style>
+</defs>
+<rect width="1200" height="630" rx="26" fill="url(#bg)"/><rect width="1200" height="630" rx="26" fill="url(#grid)"/>
+<ellipse cx="870" cy="300" rx="400" ry="350" fill="url(#aura)"/>
+<g fill="#70e6ff">
+  <circle class="twinkle" cx="705" cy="86" r="2"/><circle class="twinkle" cx="1070" cy="140" r="2.5"/><circle class="twinkle" cx="1110" cy="395" r="2"/><circle class="twinkle" cx="775" cy="510" r="2"/><circle class="twinkle" cx="1010" cy="555" r="1.8"/>
+</g>
+<path d="M655 77C840 4 1087 83 1121 262S1034 513 857 556" fill="none" stroke="url(#neon)" stroke-opacity=".45" stroke-width="1.5"/>
+<g transform="translate(66 68)">
+  <rect width="68" height="68" rx="19" fill="#101e36" stroke="url(#neon)" stroke-width="1.5"/>
+  <path d="M17 25L34 14L51 25L34 36Z M17 25V43L34 54L51 43V25 M34 36V54" fill="none" stroke="#56ddff" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<text x="66" y="177" class="txt" fill="#75e4ff" font-size="13" font-weight="700" letter-spacing="3.5">CSE • SOFTWARE • AI</text>
+<text x="64" y="235" class="txt" fill="#f3f7ff" font-size="43" font-weight="750" letter-spacing="-1.3">Muhtasim Masum</text>
+<text x="64" y="285" class="txt" fill="#f3f7ff" font-size="43" font-weight="750" letter-spacing="-1.3">Hasnayen</text>
+<rect x="66" y="310" width="92" height="4" rx="2" fill="url(#neon)"/>
+<text x="66" y="350" class="txt" fill="#bdcce5" font-size="18">Computer Science &amp; Engineering</text>
+<text x="66" y="381" class="txt muted" font-size="15">Building useful products. Testing with purpose.</text>
+<text x="66" y="404" class="txt muted" font-size="15">Learning continuously across software and intelligent systems.</text>
+<g class="txt" font-size="12.5" font-weight="600">
+  <rect x="66" y="444" width="153" height="35" rx="17.5" fill="#102941" stroke="#28d8ff" stroke-opacity=".7"/><circle cx="82" cy="461.5" r="4" fill="#28d8ff"/><text x="94" y="466" fill="#d6f7ff">Web Development</text>
+  <rect x="230" y="444" width="140" height="35" rx="17.5" fill="#171d3c" stroke="#7e8cff" stroke-opacity=".7"/><circle cx="246" cy="461.5" r="4" fill="#8e8bff"/><text x="258" y="466" fill="#e1e5ff">SQA &amp; Testing</text>
+  <rect x="381" y="444" width="122" height="35" rx="17.5" fill="#211637" stroke="#c16bff" stroke-opacity=".7"/><circle cx="397" cy="461.5" r="4" fill="#c16bff"/><text x="409" y="466" fill="#f0dcff">AI / ML / NLP</text>
+</g>
+<g class="txt" font-size="12">
+  <rect x="66" y="491" width="88" height="30" rx="15" fill="#101c31" stroke="#385577"/><text x="110" y="510" text-anchor="middle" fill="#a9c5e7">VLSI</text>
+  <rect x="164" y="491" width="124" height="30" rx="15" fill="#101c31" stroke="#385577"/><text x="226" y="510" text-anchor="middle" fill="#a9c5e7">Product Building</text>
+  <rect x="298" y="491" width="126" height="30" rx="15" fill="#101c31" stroke="#385577"/><text x="361" y="510" text-anchor="middle" fill="#a9c5e7">Always Learning</text>
+</g>
+<!-- Animated orbital tech core -->
+<g class="pulse"><circle cx="870" cy="300" r="142" fill="#07152c" fill-opacity=".6" stroke="url(#neon)" stroke-width="2"/><circle cx="870" cy="300" r="112" fill="none" stroke="#65dfff" stroke-opacity=".25" stroke-dasharray="3 8"/></g>
+<g class="orbit"><ellipse cx="870" cy="300" rx="183" ry="61" fill="none" stroke="#37dfff" stroke-width="1.8" stroke-opacity=".85"/><circle cx="687" cy="300" r="6" fill="#37dfff" filter="url(#glow)"/></g>
+<g class="orbit2"><ellipse cx="870" cy="300" rx="183" ry="61" transform="rotate(58 870 300)" fill="none" stroke="#b17aff" stroke-width="1.6" stroke-opacity=".8"/><circle cx="870" cy="117" r="5" fill="#b17aff" filter="url(#glow)"/></g>
+<g class="float" transform="translate(870 282)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M-49 -24L0 -51L49 -24L0 4Z" fill="#152d55" stroke="#4bdcff" stroke-width="2.5"/>
+  <path d="M-49 -24V29L0 58L49 29V-24M0 4V58" fill="none" stroke="#7f8dff" stroke-width="2.5"/>
+  <path d="M-24 16L-8 25L24 6" fill="none" stroke="#4bdcff" stroke-width="3"/>
+</g>
+<g class="float2">
+  <rect x="1000" y="182" width="90" height="34" rx="17" fill="#101c36" stroke="#607dff" stroke-opacity=".8"/>
+  <text x="1045" y="204" class="txt" text-anchor="middle" fill="#c9d5ff" font-size="12">AI / ML</text>
+  <rect x="728" y="401" width="92" height="34" rx="17" fill="#101c36" stroke="#2bd8ef" stroke-opacity=".8"/>
+  <text x="774" y="423" class="txt" text-anchor="middle" fill="#baf6ff" font-size="12">AUTOMATION</text>
+</g>
+<text x="870" y="390" class="txt" text-anchor="middle" fill="#eef5ff" font-size="14" font-weight="700" letter-spacing="2">BUILD • TEST • LEARN</text>
+<text x="870" y="413" class="txt" text-anchor="middle" fill="#90a9d4" font-size="11" letter-spacing="1.5">TURN IDEAS INTO IMPACT</text>
+<path d="M65 560H1135" stroke="#6584b9" stroke-opacity=".28"/>
+<text x="66" y="590" class="txt" fill="#8ca5cb" font-size="12" letter-spacing="1.5">PYTHON / NEXT.JS / FASTAPI / PLAYWRIGHT / GITHUB</text>
+<text x="1134" y="590" class="txt" text-anchor="end" fill="#8ca5cb" font-size="12">DHAKA, BANGLADESH</text>
+</svg>
