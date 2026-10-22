@@ -57,7 +57,12 @@
 <a href="https://wa.me/8801730202960">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
+<a href="https://my-portfolio-iota-taupe-53.vercel.app/">
+  <img src="https://img.shields.io/badge/New_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="New Portfolio" />
+</a>
+<a href="https://muhtasim-masum-38.lovable.app/">
+  <img src="https://img.shields.io/badge/Old_Portfolio-8B5CF6?style=for-the-badge&logo=lovable&logoColor=white" alt="Old Portfolio" />
+</a>
 </div>
 <div align="center">
 
