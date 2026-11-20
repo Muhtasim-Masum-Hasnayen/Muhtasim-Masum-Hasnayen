@@ -1,0 +1,47 @@
+name: Update profile assets
+
+# Refreshes the Royal Bengal Tiger contribution graph and the stats card
+# with your real GitHub data. Runs every day and can be started manually.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/tiger.py"
+      - "scripts/stats.py"
+      - "scripts/generate_dynamic.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate tiger graph + stats card
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          # Optional: add a classic PAT (scopes: read:user, repo) as the repo secret GH_PAT
+          # to include private contributions. Falls back to the built-in token.
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_dynamic.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/tiger-contribution.svg assets/stats.svg
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh tiger contribution graph and stats"
+            git push
+          fi
